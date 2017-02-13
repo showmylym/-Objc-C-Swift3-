@@ -1,0 +1,8 @@
+
+*.xcworkspacedata
+
+*.xcuserstate
+
+*.xcscheme
+
+LYMPhotoBrowserDemo.xcodeproj/xcuserdata/leiyiming.xcuserdatad/xcschemes/xcschememanagement.plist
